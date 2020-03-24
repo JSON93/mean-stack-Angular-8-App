@@ -115,6 +115,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "mean-course"
+    }
+  },
+  "defaultProject": "mean-course",
+  "cli": {
+    "analytics": "30f91e7d-9b91-4b51-b565-9eddf2437b7e"
+  }
 }
